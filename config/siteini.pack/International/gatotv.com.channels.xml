@@ -5,7 +5,7 @@
     <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_guatemala_teleonce" xmltv_id="Canal 11 de Guatemala (Teleonce)">Canal 11 de Guatemala (Teleonce)</channel>
     <channel update="i" site="gatotv.com" site_id="12_de_el_salvador" xmltv_id="Canal 12 de El Salvador">Canal 12 de El Salvador</channel>
-    <channel update="i" site="gatotv.com" site_id="13_de_costa_rica" xmltv_id="Canal 13 de Costa Rica">Canal 13 de Costa Rica</channel>
+    <channel update="i" site="https://costaricamedios.cr" site_id="13_de_costa_rica" xmltv_id="Canal 13 de Costa Rica">Canal 13 de Costa Rica</channel>
     <channel update="i" site="gatotv.com" site_id="13_de_guatemala_trecevision" xmltv_id="Canal 13 de Guatemala (Trecevisión)">Canal 13 de Guatemala (Trecevisión)</channel>
     <channel update="i" site="gatotv.com" site_id="13_de_nicaragua" xmltv_id="Canal 13 de Nicaragua (Viva Nicaragua)">Canal 13 de Nicaragua (Viva Nicaragua)</channel>
     <channel update="i" site="gatotv.com" site_id="13_de_puerto_rico" xmltv_id="Canal 13 de Puerto Rico (Teleoro)">Canal 13 de Puerto Rico (Teleoro)</channel>
