@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten" site="gatotv.com">
+<tv date="20220606">
   <channels>
     <channel update="i" site="gatotv.com" site_id="hola_tv" xmltv_id="Canal ¡Hola! TV">Canal ¡Hola! TV</channel>
     <channel update="i" site="gatotv.com" site_id="11_de_costa_rica" xmltv_id="Canal 11 de Costa Rica">Canal 11 de Costa Rica</channel>
